@@ -1,1 +1,29 @@
+2 feb 2026 =>
 
+Feature Scaling (normalization, standardization)
+Feature Encoding techniques (label encoding, one hot encoding)
+
+___________________________________________________________________
+
+3 feb 2026
+
+Linear Regression
+different Accuracy metrics for regression
+cross validation (holdout method)
+multiple regression
+
+___________________________________________________________________
+
+4 Feb 2026
+
+Polynomial Regression
+Overfitting and Underfitting problems
+Regularization
+
+___________________________________________________________________
+
+5 Feb 2026
+
+Classification
+Logistic Regression
+confusion matrix, precision, recall, f1-score, accuracy score
