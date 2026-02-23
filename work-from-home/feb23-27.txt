@@ -1,0 +1,9 @@
+Decision Tree
+entropy
+gini index
+pruning
+
+K-Nearest Neighbour
+
+support vector machine
+kernel -> linear, polynomial, sigmoid, rbf
