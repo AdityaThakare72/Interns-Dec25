@@ -1,0 +1,17 @@
+hyper parameter tuning
+
+feature selection and feature extraction techniques
+
+ensemble learning
+
+handling unstructured data (sentiment analysis)
+
+unsupervised learning
+kmenas
+kmediod
+hierarchical clustering
+association rule mining
+t-sne
+
+
+pre-project task => once completed take one sample kaggle data and perform all the algorithms on it
